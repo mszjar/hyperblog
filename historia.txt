@@ -6,6 +6,10 @@ tengo 28 y vivo en Lille
 me dedico a hacer ingenieria en el area de la energía 
 
 manana hablaremos de su vida
+
+update: tengo 29 y vivo en Lille
+
+Estoy haciendo una reconversión profesional hacia el desarrollo de software y la web3.0
  
  y
   
@@ -15,13 +19,6 @@ Freddy Vega tiene 32 años y nació en Colombia
 
 Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
 
-Experimento 1
+Master1
 
-Experimento 2
-
-Master 1
-
-Master 2
-
-Mañana nos enfocaremos en su vida laboral
 >>>>>>> 0cc672ac066f4d118205aaca7da635219df00e48
