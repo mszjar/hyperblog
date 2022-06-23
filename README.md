@@ -9,6 +9,7 @@ Un blog increíble para el curso Git y Github de Platzi
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos
+* Creado por platzi team 
 
 Y un amable recordatorio: este **readme.md** es un chiste. Diseñado para el ejemplo. Si llegas acá, no te lo tomes en serio y mejor ve [a ver el curso](https://platzi.com/) 
 
